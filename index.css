@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body 
+{    margin-top: 200px;
+     font-family: Roboto;
+     background: linear-gradient(to right, #b81fdf, #0eca6c);
+     text-align: center;
+
+}
+
+
+#one{
+    margin-bottom: 50px;
+}
+button{
+    background-color: red;
+    color: white;
+}
+button:hover{
+   background-color: rgb(36, 68, 68);
+}
+h1{
+    color: aqua
+}
